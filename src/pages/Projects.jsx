@@ -31,15 +31,7 @@ export default function Projects() {
                 />
                 <div className='info'>
                     <p className='font-bold text-2xl my-4 uppercase'>{project.name}</p>
-                    <p
-                        className={
-                            project.type === 'residential'
-                                ? 'text-xl border border-[#d6ac67] rounded-lg w-[150px] h-10 py-[5px] uppercase text-center '
-                                : 'text-xl border border-[#f6d5ac] text-[#f6d5ac] rounded-lg w-[150px] h-10 py-[5px] uppercase text-center '
-                        }
-                    >
-                        {project.type}
-                    </p>
+                    <p className={'text-l underline uppercase'}>View Details</p>
                 </div>
             </Link>
         </div>
