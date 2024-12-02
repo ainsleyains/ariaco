@@ -24,7 +24,7 @@ A newly crafted website design — a seamless blend of creativity and functional
 
 -   React/React Router
 -   Tailwind
--   Embla Carousel
+-   Mirage JS
 
 [Back To The Top](#read-me-template)
 
