@@ -26,8 +26,7 @@ export default function Hero() {
                         </div>
 
                         <p className='max-w-[550px] py-2 md:text-2xl sm:text-xl text-base mb-6 text-[#A17A43]'>
-                            A home that doesn't age has a design that belongs the past as well as
-                            the future
+                            A home that doesn't age has a design that belongs to the past as well as to the future
                         </p>
                         <div className='flex justify-start  '>
                             <button className=' bg-transparent text-xl my-8 w-40 md:w-48 font-bold hover:bg-[#af8c53] text-[#af8c53]font-semibold hover:text-[#252926] py-2 px-4 border border-[#af8c53] hover:border-transparent rounded-full mr-8'>
